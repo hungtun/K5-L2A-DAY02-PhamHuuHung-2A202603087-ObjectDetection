@@ -5,7 +5,7 @@
 - Họ tên: Phạm Hữu Hùng
 - MSSV: 2A202603087
 - Email: hwngt1412@gmail.com
-- Lớp: K5-L2A
+- Lớp: E402
 - Link repo bài làm: [https://github.com/hungtun/K5-L2A-DAY02-PhamHuuHung-2A202603087-ObjectDetection](https://github.com/hungtun/K5-L2A-DAY02-PhamHuuHung-2A202603087-ObjectDetection)
 - Link Colab đã chạy: [https://colab.research.google.com/drive/1_9wHq5catOnv2n6PUl5Zx_SUq1q7oYZx?usp=sharing](https://colab.research.google.com/drive/1_9wHq5catOnv2n6PUl5Zx_SUq1q7oYZx?usp=sharing)
 
